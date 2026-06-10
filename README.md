@@ -24,6 +24,11 @@
 
 <br clear="right"/>
 
+## <img src="https://readme-typing-svg.herokuapp.com?font=Lobster+Two&weight=700&size=32&duration=1&pause=99999&color=FF0000&vCenter=true&width=420&height=45&lines=Currently+working+on" alt="Currently working on" />
+
+- 🏭 A **real-world business management system** for a textile manufacturing company: inventory, orders, accounting and payroll — built with **Next.js, TypeScript, Supabase and PostgreSQL**.
+- 🌐 The company's **public website**, designed and deployed end to end.
+
 ## <img src="https://readme-typing-svg.herokuapp.com?font=Lobster+Two&weight=700&size=32&duration=1&pause=99999&color=FF0000&vCenter=true&width=320&height=45&lines=Connect+with+me" alt="Connect with me" />
 
 <p align="center">
@@ -35,35 +40,51 @@
 
 ## <img src="https://readme-typing-svg.herokuapp.com?font=Lobster+Two&weight=700&size=32&duration=1&pause=99999&color=FF0000&vCenter=true&width=240&height=45&lines=Tech+Stack" alt="Tech Stack" />
 
-### Languages
+### <img src="https://readme-typing-svg.herokuapp.com?font=Lobster+Two&weight=700&size=24&duration=1&pause=99999&color=FFFFFF&vCenter=true&width=200&height=35&lines=Languages" alt="Languages" />
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts&theme=dark" />
 </p>
 
-### Frontend
+### <img src="https://readme-typing-svg.herokuapp.com?font=Lobster+Two&weight=700&size=24&duration=1&pause=99999&color=FFFFFF&vCenter=true&width=200&height=35&lines=Frontend" alt="Frontend" />
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite&theme=dark" />
 </p>
 
-### Backend
+### <img src="https://readme-typing-svg.herokuapp.com?font=Lobster+Two&weight=700&size=24&duration=1&pause=99999&color=FFFFFF&vCenter=true&width=200&height=35&lines=Backend" alt="Backend" />
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,spring&theme=dark" />
 </p>
 
-### Databases
+### <img src="https://readme-typing-svg.herokuapp.com?font=Lobster+Two&weight=700&size=24&duration=1&pause=99999&color=FFFFFF&vCenter=true&width=200&height=35&lines=Databases" alt="Databases" />
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase&theme=dark" />
 </p>
 
-### Tools & Platforms
+### <img src="https://readme-typing-svg.herokuapp.com?font=Lobster+Two&weight=700&size=24&duration=1&pause=99999&color=FFFFFF&vCenter=true&width=260&height=35&lines=Tools+%26+Platforms" alt="Tools & Platforms" />
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,git,github,postman,npm&theme=dark" />
 </p>
 
-### IDEs & OS
+### <img src="https://readme-typing-svg.herokuapp.com?font=Lobster+Two&weight=700&size=24&duration=1&pause=99999&color=FFFFFF&vCenter=true&width=200&height=35&lines=IDEs+%26+OS" alt="IDEs & OS" />
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,idea,windows,apple&theme=dark" />
 </p>
+
+<br>
+
+---
+
+## <img src="https://readme-typing-svg.herokuapp.com?font=Lobster+Two&weight=700&size=32&duration=1&pause=99999&color=FF0000&vCenter=true&width=520&height=45&lines=Certifications+%26+Badges" alt="Certifications & Badges" />
+
+<p align="center">
+  <a href="https://www.credly.com/go/G5R3O7gg"><img src="https://img.shields.io/badge/AWS_Academy-Cloud_Foundations-FF0000?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=000000" alt="AWS Cloud Foundations"/></a>
+  <a href="https://coursera.org/verify/specialization/51A17P9KS36F"><img src="https://img.shields.io/badge/Coursera-Scrum_Master_Certification-FF0000?style=for-the-badge&logo=coursera&logoColor=white&labelColor=000000" alt="Scrum Master Certification"/></a>
+  <img src="https://img.shields.io/badge/Cisco-Networking_Basics-FF0000?style=for-the-badge&logo=cisco&logoColor=white&labelColor=000000" alt="Cisco Networking Basics"/>
+</p>
+
+- ☁️ **AWS Academy Graduate — Cloud Foundations** · AWS Academy · Nov 2025 · [Verify](https://www.credly.com/go/G5R3O7gg)
+- 🔄 **Scrum Master Certification (4-course specialization)** · LearnQuest / Coursera · Nov 2025 · [Verify](https://coursera.org/verify/specialization/51A17P9KS36F)
+- 🌐 **Networking Basics** · Cisco Networking Academy · May 2025
 
 <br>
 
@@ -109,3 +130,11 @@
 # <img src="https://readme-typing-svg.herokuapp.com?font=Lobster+Two&weight=700&size=36&duration=1&pause=99999&color=FF0000&vCenter=true&width=440&height=50&lines=My+GitHub+History!" alt="My GitHub History!" />
 
 ![Snake animation](https://github.com/zrdqns/zrdqns/raw/output/github-contribution-grid-snake.svg?v=2)
+
+<br>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="dev quote" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer" width="100%" />
