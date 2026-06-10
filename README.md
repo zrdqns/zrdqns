@@ -108,8 +108,6 @@
 
 # 📈 My GitHub History!
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=zrdqns&icon=0&color=0" /></a>
-</p>
+
 
 ![Snake animation](https://github.com/zrdqns/zrdqns/raw/output/github-contribution-grid-snake.svg)
