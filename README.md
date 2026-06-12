@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header" width="100%" />
 <img align="left" width="110" src="https://orhun.dev/img/crow.png" alt="crow" />
 
 <h1 align="center">
