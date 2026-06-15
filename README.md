@@ -1,21 +1,21 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=DC2626&height=120&section=header" width="100%" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=26&pause=1000&color=DC2626&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+Daniel+Vanegas;Systems+Engineering+Student;Frontend+%7C+Backend+Developer;Always+learning+by+building" alt="Daniel Vanegas" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=26&pause=1000&color=DC2626&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+Daniel+Vanegas;Systems+Engineering+Student;Building+production+software;Full-Stack+Developer" alt="Daniel Vanegas" />
 </h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open_to-Internships_%26_Junior_Roles-DC2626?style=for-the-badge&labelColor=000000" alt="open to work"/>
+  <img src="https://img.shields.io/badge/Based_in-Colombia-DC2626?style=for-the-badge&labelColor=000000" alt="location"/>
+</p>
 
 ## <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=30&duration=1&pause=99999&color=DC2626&vCenter=true&width=220&height=45&lines=About+me" alt="About me" />
 
-- I'm a **Systems Engineering student** at **Universidad de Ibagué**.
-- Currently learning to build **web apps**, **backend systems**, **frontend interfaces**, and **databases**.
-- I enjoy turning ideas into practical software solutions.
-- Always improving my **full-stack** skills and learning new things.
+- Systems Engineering student **building production software**.
+- Full-stack development focused on **TypeScript, Next.js, React and Supabase**.
+- I enjoy turning ideas into practical, well-architected software solutions.
+- Always deepening my **full-stack** skills and learning new things.
 - Reach me at **zrdqns@gmail.com**
-
-## <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=30&duration=1&pause=99999&color=DC2626&vCenter=true&width=440&height=45&lines=Currently+working+on" alt="Currently working on" />
-
-- A **real-world business management system** for a textile manufacturing company: inventory, orders, accounting and payroll — built with **Next.js, TypeScript, Supabase and PostgreSQL**.
-- The company's **public website**, designed and deployed end to end.
 
 <br>
 
@@ -95,10 +95,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zrdqns&bg_color=000000&color=DC2626&line=DC2626&point=FFFFFF&area=true&hide_border=false&border_color=DC2626&title_color=DC2626" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zrdqns&bg_color=000000&color=DC2626&line=DC2626&point=FFFFFF&area=true&hide_border=false&border_color=DC2626&title_color=DC2626" alt="activity graph" width="100%" />
 </p>
 
-![Snake animation](https://github.com/zrdqns/zrdqns/raw/output/github-contribution-grid-snake.svg?v=3)
+<p align="center">
+  <img src="https://github.com/zrdqns/zrdqns/raw/output/github-contribution-grid-snake.svg?v=3" alt="Snake animation" width="100%" />
+</p>
 
 <br>
 
