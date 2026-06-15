@@ -24,11 +24,12 @@
 ## <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=30&duration=1&pause=99999&color=DC2626&vCenter=true&width=440&height=45&lines=Pinned+Repositories" alt="Pinned Repositories" />
 
 <p align="center">
-  <a href="https://github.com/zrdqns/history-client"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zrdqns&repo=history-client&title_color=DC2626&icon_color=DC2626&text_color=FFFFFF&bg_color=000000&border_color=DC2626" /></a>
-  <a href="https://github.com/zrdqns/Concessionaire"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zrdqns&repo=Concessionaire&title_color=DC2626&icon_color=DC2626&text_color=FFFFFF&bg_color=000000&border_color=DC2626" /></a>
+  <a href="https://github.com/zrdqns/studio-brutalist-landing"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zrdqns&repo=studio-brutalist-landing&title_color=DC2626&icon_color=DC2626&text_color=FFFFFF&bg_color=000000&border_color=DC2626" /></a>
+  <a href="https://github.com/zrdqns/cafe-editorial-landing"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zrdqns&repo=cafe-editorial-landing&title_color=DC2626&icon_color=DC2626&text_color=FFFFFF&bg_color=000000&border_color=DC2626" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/zrdqns/zrdqns"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zrdqns&repo=zrdqns&title_color=DC2626&icon_color=DC2626&text_color=FFFFFF&bg_color=000000&border_color=DC2626" /></a>
+  <a href="https://github.com/zrdqns/fintech-minimal-landing"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zrdqns&repo=fintech-minimal-landing&title_color=DC2626&icon_color=DC2626&text_color=FFFFFF&bg_color=000000&border_color=DC2626" /></a>
+  <a href="https://github.com/zrdqns/texledger"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zrdqns&repo=texledger&title_color=DC2626&icon_color=DC2626&text_color=FFFFFF&bg_color=000000&border_color=DC2626" /></a>
 </p>
 
 <br>
