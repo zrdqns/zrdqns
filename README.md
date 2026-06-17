@@ -73,11 +73,13 @@
   <a href="https://www.credly.com/go/G5R3O7gg"><img src="https://img.shields.io/badge/AWS_Academy-Cloud_Foundations-DC2626?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=000000" alt="AWS Cloud Foundations"/></a>
   <a href="https://coursera.org/verify/specialization/51A17P9KS36F"><img src="https://img.shields.io/badge/Coursera-Scrum_Master_Certification-DC2626?style=for-the-badge&logo=coursera&logoColor=white&labelColor=000000" alt="Scrum Master Certification"/></a>
   <a href="https://www.credly.com/badges/2e1a731e-827a-44d4-9237-d62f16f7e4b4"><img src="https://img.shields.io/badge/Cisco-Networking_Basics-DC2626?style=for-the-badge&logo=cisco&logoColor=white&labelColor=000000" alt="Cisco Networking Basics"/></a>
+  <a href="https://www.credly.com/badges/f1671f08-afd7-4128-804a-d0c29db40ebf/public_url"><img src="https://img.shields.io/badge/Microsoft-AI_Skills_Fest_2026-DC2626?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=000000" alt="AI Skills Fest 2026"/></a>
 </p>
 
 - **AWS Academy Graduate — Cloud Foundations** · AWS Academy · Nov 2025 · [Verify](https://www.credly.com/go/G5R3O7gg)
 - **Scrum Master Certification (4-course specialization)** · LearnQuest / Coursera · Nov 2025 · [Verify](https://coursera.org/verify/specialization/51A17P9KS36F)
 - **Networking Basics** · Cisco Networking Academy · May 2025 · [Verify](https://www.netacad.com/certificates/?issuanceId=2b84a99a-b359-4864-9148-56df6c270b88) · [Badge](https://www.credly.com/badges/2e1a731e-827a-44d4-9237-d62f16f7e4b4)
+- **AI Skills Fest 2026** · Microsoft · 2026 · [Verify](https://www.credly.com/badges/f1671f08-afd7-4128-804a-d0c29db40ebf/public_url)
 
 <br>
 
