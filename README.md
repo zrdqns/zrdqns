@@ -88,7 +88,7 @@
 ## <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=30&duration=1&pause=99999&color=DC2626&vCenter=true&width=380&height=45&lines=Stats+%26+Activity" alt="Stats & Activity" />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zrdqns&show_icons=true&count_private=true&include_all_commits=true&line_height=25&title_color=DC2626&icon_color=DC2626&text_color=FFFFFF&bg_color=000000&border_color=DC2626" alt="zrdqns stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zrdqns&show_icons=true&count_private=true&line_height=25&title_color=DC2626&icon_color=DC2626&text_color=FFFFFF&bg_color=000000&border_color=DC2626" alt="zrdqns stats" />
   <img src="https://streak-stats.demolab.com/?user=zrdqns&background=000000&stroke=DC2626&ring=DC2626&fire=DC2626&currStreakNum=FFFFFF&currStreakLabel=DC2626&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&border=DC2626" alt="streak" />
 </p>
 
