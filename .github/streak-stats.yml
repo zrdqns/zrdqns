@@ -1,0 +1,16 @@
+name: Generate Streak Stats
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  streak:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: DenverCoder1/github-readme-streak-stats@master
+        with:
+          user_id: 277049871
+          output: streak-stats.svg
+          github_token: ${{ secrets.GITHUB_TOKEN }}
