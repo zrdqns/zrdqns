@@ -13,6 +13,7 @@
 
 - Systems Engineering student **building production software**.
 - Full-stack development focused on **TypeScript, Next.js, React and Supabase**.
+- REST APIs with **Java & Spring Boot**, and machine learning with **TensorFlow, PyTorch and scikit-learn**.
 - I enjoy turning ideas into practical, well-architected software solutions.
 - Always deepening my **full-stack** skills and learning new things.
 - Reach me at **zrdqns@gmail.com**
@@ -40,27 +41,32 @@
 
 ### <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=22&duration=1&pause=99999&color=FFFFFF&vCenter=true&width=200&height=35&lines=Languages" alt="Languages" />
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts&theme=dark" />
 </p>
 
 ### <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=22&duration=1&pause=99999&color=FFFFFF&vCenter=true&width=200&height=35&lines=Frontend" alt="Frontend" />
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,react,nextjs,tailwind,vite,astro&theme=dark" />
 </p>
 
 ### <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=22&duration=1&pause=99999&color=FFFFFF&vCenter=true&width=200&height=35&lines=Backend" alt="Backend" />
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,django,flask,spring&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,spring,fastapi&theme=dark" />
 </p>
 
 ### <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=22&duration=1&pause=99999&color=FFFFFF&vCenter=true&width=200&height=35&lines=Databases" alt="Databases" />
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,redis&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase&theme=dark" />
+</p>
+
+### <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=22&duration=1&pause=99999&color=FFFFFF&vCenter=true&width=300&height=35&lines=AI+%26+Data+Science" alt="AI & Data Science" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
 </p>
 
 ### <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=22&duration=1&pause=99999&color=FFFFFF&vCenter=true&width=260&height=35&lines=Tools+%26+Platforms" alt="Tools & Platforms" />
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,postman,npm,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,aws,figma,vscode,idea,npm,vitest,powershell&theme=dark" />
 </p>
 
 <br>
