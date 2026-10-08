@@ -25,11 +25,14 @@
 ## <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=30&duration=1&pause=99999&color=DC2626&vCenter=true&width=440&height=45&lines=Pinned+Repositories" alt="Pinned Repositories" />
 
 <p align="center">
-  <a href="https://github.com/zrdqns/studio-brutalist-landing"><img src="https://github-readme-stats-zeta-rust-85.vercel.app/api/pin/?username=zrdqns&repo=studio-brutalist-landing&title_color=DC2626&icon_color=DC2626&text_color=FFFFFF&bg_color=000000&border_color=DC2626&cache_seconds=86400" /></a>
-  <a href="https://github.com/zrdqns/cafe-editorial-landing"><img src="https://github-readme-stats-zeta-rust-85.vercel.app/api/pin/?username=zrdqns&repo=cafe-editorial-landing&title_color=DC2626&icon_color=DC2626&text_color=FFFFFF&bg_color=000000&border_color=DC2626&cache_seconds=86400" /></a>
+  <a href="https://github.com/zrdqns/claude-code-franja"><img src="https://github-readme-stats-zeta-rust-85.vercel.app/api/pin/?username=zrdqns&repo=claude-code-franja&title_color=DC2626&icon_color=DC2626&text_color=FFFFFF&bg_color=000000&border_color=DC2626&cache_seconds=86400" /></a>
+  <a href="https://github.com/zrdqns/claude-code-consumo"><img src="https://github-readme-stats-zeta-rust-85.vercel.app/api/pin/?username=zrdqns&repo=claude-code-consumo&title_color=DC2626&icon_color=DC2626&text_color=FFFFFF&bg_color=000000&border_color=DC2626&cache_seconds=86400" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/zrdqns/fintech-minimal-landing"><img src="https://github-readme-stats-zeta-rust-85.vercel.app/api/pin/?username=zrdqns&repo=fintech-minimal-landing&title_color=DC2626&icon_color=DC2626&text_color=FFFFFF&bg_color=000000&border_color=DC2626&cache_seconds=86400" /></a>
+  <a href="https://github.com/zrdqns/claude-code-aparte"><img src="https://github-readme-stats-zeta-rust-85.vercel.app/api/pin/?username=zrdqns&repo=claude-code-aparte&title_color=DC2626&icon_color=DC2626&text_color=FFFFFF&bg_color=000000&border_color=DC2626&cache_seconds=86400" /></a>
+  <a href="https://github.com/zrdqns/claude-code-conversor"><img src="https://github-readme-stats-zeta-rust-85.vercel.app/api/pin/?username=zrdqns&repo=claude-code-conversor&title_color=DC2626&icon_color=DC2626&text_color=FFFFFF&bg_color=000000&border_color=DC2626&cache_seconds=86400" /></a>
+</p>
+<p align="center">
   <a href="https://github.com/zrdqns/texledger"><img src="https://github-readme-stats-zeta-rust-85.vercel.app/api/pin/?username=zrdqns&repo=texledger&title_color=DC2626&icon_color=DC2626&text_color=FFFFFF&bg_color=000000&border_color=DC2626&cache_seconds=86400" /></a>
 </p>
 
