@@ -1,0 +1,48 @@
+name: Update activity graph
+
+on:
+  schedule:
+    - cron: "30 */12 * * *"
+  push:
+    paths:
+      - ".github/workflows/activity-graph.yml"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/checkout@v4
+        with:
+          repository: Ashutosh00710/github-readme-activity-graph
+          ref: 0962e9461de815933d462e8b98c7ce566cada8fb
+          path: graph-src
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Generate activity graph
+        working-directory: graph-src
+        env:
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          npm ci
+          npm run build
+          npm start &
+          curl -sf --retry 10 --retry-connrefused --retry-delay 2 -o ../activity-graph.svg "http://localhost:5100/graph?username=zrdqns&bg_color=000000&color=DC2626&line=DC2626&point=FFFFFF&area=true&hide_border=false&border_color=DC2626&title_color=DC2626"
+          grep -q "ct-line" ../activity-graph.svg
+
+      - name: Commit activity graph
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add activity-graph.svg
+          git commit -m "Update activity graph" || exit 0
+          git pull --rebase
+          git push
