@@ -21,7 +21,7 @@
 
 - Systems Engineering student **building production software**.
 - Full-stack development focused on **TypeScript, Next.js, React and Supabase**.
-- REST APIs with **Java & Spring Boot**, and machine learning with **TensorFlow, PyTorch and scikit-learn**.
+- REST APIs with **Java & Spring Boot**, and building with **LLMs and AI-assisted tooling**.
 - I enjoy turning ideas into practical, well-architected software solutions.
 - Always deepening my **full-stack** skills and learning new things.
 - Reach me at **zrdqns@gmail.com**
@@ -84,11 +84,11 @@
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
 </p>
 
-### <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=22&duration=1&pause=99999&color=FFFFFF&vCenter=true&width=300&height=35&lines=AI+%26+Data+Science" alt="AI & Data Science" />
+### <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=22&duration=1&pause=99999&color=FFFFFF&vCenter=true&width=300&height=35&lines=AI+%26+Assistants" alt="AI & Assistants" />
 <p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgMjQwNiAyNDA2Ij48cGF0aCBpZD0iYSIgZD0iTTExMDcuMyAyOTkuMWMtMTk3Ljk5OSAwLTM3My45IDEyNy4zLTQzNS4yIDMxNS4zTDY1MCA3NDMuNXY0MjcuOWMwIDIxLjQgMTEgNDAuNCAyOS40IDUxLjRsMzQ0LjUgMTk4LjUxNVY4MzMuM2guMXYtMjcuOUwxMzcyLjcgNjA0YzMzLjcxNS0xOS41MiA3MC40NC0zMi44NTcgMTA4LjQ3LTM5LjgyOEwxNDQ3LjYgNDUwLjNDMTM2MSAzNTMuNSAxMjM3LjEgMjk4LjUgMTEwNy4zIDI5OS4xem0wIDExNy41LS42LjZjNzkuNjk5IDAgMTU2LjMgMjcuNSAyMTcuNiA3OC40LTIuNSAxLjItNy40IDQuMy0xMSA2LjFMOTUyLjggNzA5LjNjLTE4LjQgMTAuNC0yOS40IDMwLTI5LjQgNTEuNFYxMjQ4bC0xNTUuMS04OS40Vjc1NS44Yy0uMS0xODcuMDk5IDE1MS42MDEtMzM4LjkgMzM5LTMzOS4yeiIgZmlsbD0iI2ZmZiIvPjx1c2UgeGxpbms6aHJlZj0iI2EiIHRyYW5zZm9ybT0icm90YXRlKDYwIDEyMDMgMTIwMykiLz48dXNlIHhsaW5rOmhyZWY9IiNhIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjAgMTIwMyAxMjAzKSIvPjx1c2UgeGxpbms6aHJlZj0iI2EiIHRyYW5zZm9ybT0icm90YXRlKDE4MCAxMjAzIDEyMDMpIi8+PHVzZSB4bGluazpocmVmPSIjYSIgdHJhbnNmb3JtPSJyb3RhdGUoMjQwIDEyMDMgMTIwMykiLz48dXNlIHhsaW5rOmhyZWY9IiNhIiB0cmFuc2Zvcm09InJvdGF0ZSgzMDAgMTIwMyAxMjAzKSIvPjwvc3ZnPg==" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
 </p>
 
 ### <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=22&duration=1&pause=99999&color=FFFFFF&vCenter=true&width=260&height=35&lines=Tools+%26+Platforms" alt="Tools & Platforms" />
@@ -112,10 +112,10 @@
 ## <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=30&duration=1&pause=99999&color=DC2626&vCenter=true&width=540&height=45&lines=Certifications+%26+Badges" alt="Certifications & Badges" />
 
 <p align="center">
-  <a href="https://www.credly.com/go/G5R3O7gg"><img src="https://img.shields.io/badge/AWS_Academy-Cloud_Foundations-DC2626?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=000000" alt="AWS Cloud Foundations"/></a>
+  <a href="https://www.credly.com/go/G5R3O7gg"><img src="./assets/aws-academy.svg" alt="AWS Cloud Foundations"/></a>
   <a href="https://coursera.org/verify/specialization/51A17P9KS36F"><img src="https://img.shields.io/badge/Coursera-Scrum_Master_Certification-DC2626?style=for-the-badge&logo=coursera&logoColor=white&labelColor=000000" alt="Scrum Master Certification"/></a>
   <a href="https://www.credly.com/badges/2e1a731e-827a-44d4-9237-d62f16f7e4b4"><img src="https://img.shields.io/badge/Cisco-Networking_Basics-DC2626?style=for-the-badge&logo=cisco&logoColor=white&labelColor=000000" alt="Cisco Networking Basics"/></a>
-  <a href="https://www.credly.com/badges/f1671f08-afd7-4128-804a-d0c29db40ebf/public_url"><img src="https://img.shields.io/badge/Microsoft-AI_Skills_Fest_2026-DC2626?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=000000" alt="AI Skills Fest 2026"/></a>
+  <a href="https://www.credly.com/badges/f1671f08-afd7-4128-804a-d0c29db40ebf/public_url"><img src="https://img.shields.io/badge/Microsoft-AI_Skills_Fest_2026-DC2626?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPHBhdGggZD0iTTAgMGgxMS40djExLjRIMHpNMTIuNiAwSDI0djExLjRIMTIuNnpNMCAxMi42aDExLjRWMjRIMHpNMTIuNiAxMi42SDI0VjI0SDEyLjZ6Ii8%2BPC9zdmc%2B&labelColor=000000" alt="AI Skills Fest 2026"/></a>
 </p>
 
 - **AWS Academy Graduate — Cloud Foundations** · AWS Academy · Nov 2025 · [Verify](https://www.credly.com/go/G5R3O7gg)
