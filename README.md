@@ -33,15 +33,15 @@
 ## <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=30&duration=1&pause=99999&color=DC2626&vCenter=true&width=440&height=45&lines=Pinned+Repositories" alt="Pinned Repositories" />
 
 <p align="center">
-  <a href="https://github.com/zrdqns/claude-code-band"><img src="https://github-readme-stats-zeta-rust-85.vercel.app/api/pin/?username=zrdqns&repo=claude-code-band&title_color=DC2626&icon_color=DC2626&text_color=FFFFFF&bg_color=000000&border_color=DC2626&cache_seconds=86400" /></a>
-  <a href="https://github.com/zrdqns/claude-code-usage"><img src="https://github-readme-stats-zeta-rust-85.vercel.app/api/pin/?username=zrdqns&repo=claude-code-usage&title_color=DC2626&icon_color=DC2626&text_color=FFFFFF&bg_color=000000&border_color=DC2626&cache_seconds=86400" /></a>
+  <a href="https://github.com/zrdqns/claude-code-band"><img src="./cards/pin-claude-code-band.svg" alt="claude-code-band" /></a>
+  <a href="https://github.com/zrdqns/claude-code-usage"><img src="./cards/pin-claude-code-usage.svg" alt="claude-code-usage" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/zrdqns/claude-code-aside"><img src="https://github-readme-stats-zeta-rust-85.vercel.app/api/pin/?username=zrdqns&repo=claude-code-aside&title_color=DC2626&icon_color=DC2626&text_color=FFFFFF&bg_color=000000&border_color=DC2626&cache_seconds=86400" /></a>
-  <a href="https://github.com/zrdqns/claude-code-converter"><img src="https://github-readme-stats-zeta-rust-85.vercel.app/api/pin/?username=zrdqns&repo=claude-code-converter&title_color=DC2626&icon_color=DC2626&text_color=FFFFFF&bg_color=000000&border_color=DC2626&cache_seconds=86400" /></a>
+  <a href="https://github.com/zrdqns/claude-code-aside"><img src="./cards/pin-claude-code-aside.svg" alt="claude-code-aside" /></a>
+  <a href="https://github.com/zrdqns/claude-code-converter"><img src="./cards/pin-claude-code-converter.svg" alt="claude-code-converter" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/zrdqns/texledger"><img src="https://github-readme-stats-zeta-rust-85.vercel.app/api/pin/?username=zrdqns&repo=texledger&title_color=DC2626&icon_color=DC2626&text_color=FFFFFF&bg_color=000000&border_color=DC2626&cache_seconds=86400" /></a>
+  <a href="https://github.com/zrdqns/texledger"><img src="./cards/pin-texledger.svg" alt="texledger" /></a>
 </p>
 
 <br>
@@ -144,12 +144,12 @@
 ## <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=30&duration=1&pause=99999&color=DC2626&vCenter=true&width=380&height=45&lines=Stats+%26+Activity" alt="Stats & Activity" />
 
 <p align="center">
-  <img src="https://github-readme-stats-zeta-rust-85.vercel.app/api?username=zrdqns&show_icons=true&count_private=true&line_height=25&title_color=DC2626&icon_color=DC2626&text_color=FFFFFF&bg_color=000000&border_color=DC2626&cache_seconds=86400" alt="zrdqns stats" />
+  <img src="./cards/stats.svg" alt="zrdqns stats" />
   <img src="https://raw.githubusercontent.com/zrdqns/zrdqns/main/streak-stats.svg" alt="streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-zeta-rust-85.vercel.app/api/top-langs/?username=zrdqns&langs_count=8&layout=compact&title_color=DC2626&text_color=FFFFFF&bg_color=000000&border_color=DC2626&cache_seconds=86400" alt="top langs" />
+  <img src="./cards/top-langs.svg" alt="top langs" />
 </p>
 
 <p align="center">
