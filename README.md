@@ -125,11 +125,13 @@
 
 <p align="center">
   <a href="https://www.credly.com/go/G5R3O7gg"><img src="./assets/aws-academy.svg" alt="AWS Cloud Foundations"/></a>
+  <a href="https://www.credly.com/badges/508d1be0-dd86-4b2d-8dd0-46fcb50b3322/public_url"><img src="./assets/aws-academy-architecting.svg" alt="AWS Cloud Architecting"/></a>
   <a href="https://coursera.org/verify/specialization/51A17P9KS36F"><img src="https://img.shields.io/badge/Coursera-Scrum_Master_Certification-DC2626?style=for-the-badge&logo=coursera&logoColor=white&labelColor=000000" alt="Scrum Master Certification"/></a>
   <a href="https://www.credly.com/badges/2e1a731e-827a-44d4-9237-d62f16f7e4b4"><img src="https://img.shields.io/badge/Cisco-Networking_Basics-DC2626?style=for-the-badge&logo=cisco&logoColor=white&labelColor=000000" alt="Cisco Networking Basics"/></a>
   <a href="https://www.credly.com/badges/f1671f08-afd7-4128-804a-d0c29db40ebf/public_url"><img src="https://img.shields.io/badge/Microsoft-AI_Skills_Fest_2026-DC2626?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPHBhdGggZD0iTTAgMGgxMS40djExLjRIMHpNMTIuNiAwSDI0djExLjRIMTIuNnpNMCAxMi42aDExLjRWMjRIMHpNMTIuNiAxMi42SDI0VjI0SDEyLjZ6Ii8%2BPC9zdmc%2B&labelColor=000000" alt="AI Skills Fest 2026"/></a>
 </p>
 
+- **AWS Academy Graduate — Cloud Architecting** · AWS Academy · Nov 2026 · [Verify](https://www.credly.com/badges/508d1be0-dd86-4b2d-8dd0-46fcb50b3322/public_url)
 - **AWS Academy Graduate — Cloud Foundations** · AWS Academy · Nov 2025 · [Verify](https://www.credly.com/go/G5R3O7gg)
 - **Scrum Master Certification (4-course specialization)** · LearnQuest / Coursera · Nov 2025 · [Verify](https://coursera.org/verify/specialization/51A17P9KS36F)
 - **Networking Basics** · Cisco Networking Academy · May 2025 · [Verify](https://www.netacad.com/certificates/?issuanceId=2b84a99a-b359-4864-9148-56df6c270b88) · [Badge](https://www.credly.com/badges/2e1a731e-827a-44d4-9237-d62f16f7e4b4)
